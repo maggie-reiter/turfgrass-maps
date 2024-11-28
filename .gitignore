@@ -1,8 +1,4 @@
 # any csv
 *.csv
 
-# ignore climate_data and all its contents
-climate_data/
-climate_data_clipped/
-
 .env

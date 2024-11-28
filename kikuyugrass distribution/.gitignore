@@ -1,0 +1,13 @@
+# Always ignore
+.env
+
+# Ignore everything by default
+*
+
+# Explicitly include these
+!*.ipynb
+!envidatS3paths.txt
+!california_clipped.tif
+!kikuyugrass_predictions_final.tif
+!.gitignore
+!README.md
